@@ -2,8 +2,6 @@
 
 ### Stats about me
 
-- 🔭 I’m currently working on [Federal Project](https://play.google.com/store/apps/details?id=com.fedmobile) 
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AssassinAsh&count_private=true&show_icons=true&layout=default)
 
 
